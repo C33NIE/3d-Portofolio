@@ -5,9 +5,10 @@ import CanvasLoader from "./Loader";
 import Navbar from "./Navbar";
 import Portfolio from "./Portfolio";
 import Position from "./Position";
+import Carousel from "./Carousel";
 import SpacemanCanvas from "./Spaceman";
 
 export {
-    CanvasLoader, Contact, Experience, Hero, Navbar, Portfolio, Position, SpacemanCanvas
+    CanvasLoader, Contact, Experience, Hero, Navbar, Portfolio, Position, SpacemanCanvas,Carousel
 };
 

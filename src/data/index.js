@@ -12,9 +12,15 @@ export const navLinks = [
     id: "hero",
     title: "The View",
   },
+  { id: "aboutme", 
+    title: "About Me" 
+  },
   {
     id: "portfolio",
     title: "Portfolio",
+  },
+  { id: "games", 
+    title: "Games" 
   },
   {
     id: "experience",
@@ -88,7 +94,7 @@ const portfolio = [
   {
     name: "Khoj",
     description:
-      "An immersive action-adventure game developed in Unreal Engine, featuring advanced character mechanics.",
+      "An immersive prototype for an action-adventure game developed in Unreal Engine, featuring advanced character mechanics.",
     image: khoj,
   },
 ];

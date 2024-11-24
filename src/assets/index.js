@@ -8,5 +8,12 @@ import oscs from "./oscs.png";
 import khoj from "./Khoj.png"
 import airly from "./Airly.png"
 import ring from "./ring.png"
-export { algorithms, close, devnotes, logo, menu, oscs,khoj,airly,ring };
+
+import khojtrailer from "./gifs/KhojTrailer.gif"
+import goe from "./gifs/garden.gif"
+import taxy from "./gifs/taxy.gif"
+import drifter from "./gifs/drifter.gif"
+import zombi from "./gifs/zombi.gif"
+
+export { algorithms, close, devnotes, logo, menu, oscs,khoj,airly,ring, khojtrailer,goe,taxy,drifter,zombi };
 
