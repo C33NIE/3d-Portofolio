@@ -14,7 +14,7 @@ import goe from "./gifs/garden.gif"
 import taxy from "./gifs/taxy.gif"
 import drifter from "./gifs/drifter.gif"
 import zombi from "./gifs/zombi.gif"
-import souppy from "./gifs/soupTogether.gif"
+import souppy from "./gifs/SoupTogether.gif"
 import dungeondwellers from "./gifs/Dungeon.gif"        
 import joust from "./gifs/joust.gif"
 
