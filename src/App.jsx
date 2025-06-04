@@ -20,9 +20,6 @@ const App = () => {
           <div id="portfolio" className='relative z-30 bg-primary mt-[-2px]'>
             <Portfolio />
           </div>
-          <div id="games" className='relative z-30 bg-primary mt-[-2px]'>
-          <Carousel />
-          </div>
           <div id="experience" className='relative z-30 bg-primary'>
             <Experience />
           </div>

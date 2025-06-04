@@ -59,7 +59,7 @@ const Carousel = () => {
   return (
     <div className="sm:my-20">
       <motion.div variants={textVariant()}>
-        <h2 className={`${styles.sectionText} text-center`}>A bit of my work</h2>
+        <h2 className={`${styles.sectionText} text-center text-transparent bg-gradient-to-r from-orange-400 via-pink-500 to-purple-600 bg-clip-text`}>A bit of my work</h2>
       </motion.div>
 
       <div className="relative w-full max-w-[calc(100%-60px)] mx-auto mt-10 overflow-hidden rounded-xl shadow-lg">

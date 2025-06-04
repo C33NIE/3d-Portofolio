@@ -17,6 +17,7 @@ const Position = () => {
     { text: "Game Developer" },
     { text: "Software Developer" },
     { text: "Game Designer" },
+    { text: "3D Generalist" },
   ];
 
   useEffect(() => {
