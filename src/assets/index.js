@@ -14,9 +14,9 @@ import goe from "./gifs/garden.gif"
 import taxy from "./gifs/taxy.gif"
 import drifter from "./gifs/drifter.gif"
 import zombi from "./gifs/zombi.gif"
-import soupTogether from "./gifs/soupTogether.gif"
+import souppy from "./gifs/soupTogether.gif"
 import dungeondwellers from "./gifs/Dungeon.gif"        
 import joust from "./gifs/joust.gif"
 
-export { algorithms, close, devnotes, logo, menu, oscs,khoj,airly,ring, khojtrailer,goe,taxy,drifter,zombi,soupTogether,dungeondwellers,joust };
+export { algorithms, close, devnotes, logo, menu, oscs,khoj,airly,ring, khojtrailer,goe,taxy,drifter,zombi,souppy,dungeondwellers,joust };
 

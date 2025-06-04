@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React, { useState, useEffect } from "react";
-import { drifter, goe, khojtrailer, taxy, zombi, soupTogether, dungeondwellers, joust } from "../assets";
+import { drifter, goe, khojtrailer, taxy, zombi, souppy, dungeondwellers, joust } from "../assets";
 import { styles } from "../styles";
 import { textVariant } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
@@ -41,7 +41,7 @@ const slides = [
     title: "Soup Together",
     subtitle: "Game Jam Winner (Unity)",
     description: "Pakistan Game Developers Conference game jam winner featuring all self-made assets.",
-    image: soupTogether,
+    image: souppy,
   },
   {
     title: "Dungeon Dweller",
