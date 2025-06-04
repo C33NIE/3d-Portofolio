@@ -16,7 +16,7 @@ import drifter from "./gifs/drifter.gif"
 import zombi from "./gifs/zombi.gif"
 import souppy from "./gifs/SoupTogether.gif"
 import dungeondwellers from "./gifs/Dungeon.gif"        
-import joust from "./gifs/joust.gif"
+import joust from "./gifs/Joust.gif"
 
 export { algorithms, close, devnotes, logo, menu, oscs,khoj,airly,ring, khojtrailer,goe,taxy,drifter,zombi,souppy,dungeondwellers,joust };
 
